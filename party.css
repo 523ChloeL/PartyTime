@@ -1,0 +1,12 @@
+body {
+    font-family: 'Mountains of Christmas';font-size: 22px;
+}
+fieldset {
+  border-color: transparent;
+}
+input {
+  width: 250px;
+}
+.rsvp {
+  width: 125px
+}
