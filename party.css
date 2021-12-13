@@ -1,5 +1,8 @@
 body {
-    font-family: 'Mountains of Christmas';font-size: 22px;
+    font-family: 'Mountains of Christmas';
+    font-size: 22px;
+    background-image: linear-gradient(rgb(84, 126, 140), #ADD8E6, white);
+    background-repeat: no-repeat;
 }
 fieldset {
   border-color: transparent;
@@ -8,5 +11,35 @@ input {
   width: 250px;
 }
 .rsvp {
-  width: 125px
+  width: 125px;
+  background-color: #AFEEEE;
+    font-family: 'Mountains of Christmas';
+    font-size: 20px;
+}
+.text {
+  text-align: center;
+}
+
+ .bg {
+	 background-position: relative;
+    width: 100%;
+    height: 50px;
+	 padding: 0px;
+	 margin: 0px;
+	 filter: blur(100px);
+}
+label {
+  font-family: 'Mountains of Christmas';
+}
+::placeholder {
+  font-family: 'Mountains of Christmas';
+  font-size: 20px;
+}
+option {
+  font-family: 'Mountains of Christmas';
+  font-size: 20px;
+}
+select {
+  font-family: 'Mountains of Christmas';
+  font-size: 20px;
 }
